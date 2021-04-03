@@ -1,6 +1,6 @@
 {
   "name": "react-bulma-ui-elements",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "react bulma ui components",
   "author": "nandanpandey",
   "main": "dist/index.js",
