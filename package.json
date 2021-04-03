@@ -1,15 +1,15 @@
 {
   "name": "react-bulma-ui-elements",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "react bulma ui components",
   "author": "nandanpandey",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nandanpandey27/react-bulma-ui"
+    "url": "https://github.com/nandanpandey27/react-bulma-ui-elements"
   },
   "bugs": {
-    "url": "https://github.com/nandanpandey27/react-bulma-ui/issues"
+    "url": "https://github.com/nandanpandey27/react-bulma-ui-elements/issues"
   },
   "license": "MIT",
   "private": false,
